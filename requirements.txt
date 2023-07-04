@@ -1,0 +1,10 @@
+#numpy==1.19.5
+#python-dateutil==2.8.1
+opencv-python--headless
+#pandas==1.2.1
+#streamlit==0.82.0
+tensorflow
+#-GPU
+#tensorflow==2.12.*
+#ffmpeg 
+#imageio-ffmpeg==0.4.3
