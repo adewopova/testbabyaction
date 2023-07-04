@@ -1,0 +1,15 @@
+
+[theme]
+primaryColor="#ffffff"
+backgroundColor="#bfe1b0"
+secondaryBackgroundColor="#2ddac8"
+textColor="#002652"
+
+font = "monospace"
+
+[server]
+
+maxUploadSize = 70
+
+
+
